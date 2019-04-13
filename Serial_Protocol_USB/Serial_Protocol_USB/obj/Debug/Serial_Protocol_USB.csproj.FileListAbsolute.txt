@@ -1,0 +1,10 @@
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\bin\Debug\Serial_Protocol_USB.exe.config
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\bin\Debug\Serial_Protocol_USB.exe
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\bin\Debug\Serial_Protocol_USB.pdb
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.csprojAssemblyReference.cache
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.Form1.resources
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.Properties.Resources.resources
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.csproj.GenerateResource.cache
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.csproj.CoreCompileInputs.cache
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.exe
+C:\Users\ANTICITIZEN\source\repos\Serial_Protocol_USB\Serial_Protocol_USB\obj\Debug\Serial_Protocol_USB.pdb
